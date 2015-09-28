@@ -11,18 +11,10 @@ This repository/feature is known to be problematic or abandoned. Do not rely on 
 
 This repository/feature was introduced recently, and may change or be removed in the future. Please try it out and provide feedback. If it addresses a use-case that is important to you, tell the author.
 
-## Stability: 2 - Unstable
-
-The API is in the process of settling, but has not yet had sufficient real-world testing to be considered stable. Backwards-compatibility will be maintained if reasonable.
-
-## Stability: 3 - Stable
+## Stability: 2 - Stable
 
 The API has proven satisfactory, but cleanup in the underlying code may cause minor changes. Backwards-compatibility is guaranteed.
 
-## Stability: 4 - API Frozen
+## Stability: 3 - Locked
 
-This API has been tested extensively in production and is unlikely to ever have to change.
-
-## Stability: 5 - Locked
-
-Unless serious bugs are found, this code will not ever change. Please do not suggest changes in this area; they will be refused.
+Only fixes related to security, performance, or bug fixes will be accepted. Please do not suggest API changes in this area; they will be refused.
