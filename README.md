@@ -13,7 +13,7 @@ This repository/feature was introduced recently, and may change or be removed in
 
 ## Stability: 2 - Stable
 
-The API has proven satisfactory, but cleanup in the underlying code may cause minor changes. Backwards-compatibility is guaranteed.
+The API has proven satisfactory, but cleanup in the underlying code may cause minor changes. Backwards-compatibility will not be broken unless absolutely necessary. (If backwards-compatiblity is broken, new [semver](http://semver.org/) MAJOR version will be released)
 
 ## Stability: 3 - Locked
 
